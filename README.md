@@ -1,6 +1,6 @@
 # Autonomous Rover
 
-The following video is of our rover throughout is production process:
+The following video is of our rover throughout the production process:
 
 https://www.youtube.com/watch?v=zD7ItJ7Nwu8
 
